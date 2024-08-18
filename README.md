@@ -1,1 +1,1 @@
-# VideoGenuis
+# VideoGenius
